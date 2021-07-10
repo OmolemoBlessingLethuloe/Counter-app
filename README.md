@@ -25,14 +25,14 @@ To get a local copy up and running follow these simple steps.
 ### To clone the repo to your local repository:
 
 ``` bash
-git clone https://github.com/OmolemoBlessingLethuloe/Blessings.web
+git clone https://github.com/OmolemoBlessingLethuloe/Counter-app.git
 ``` 
 
 ``` bash
-cd Blessings.web
+cd Counter-app
 ```
 
-Open ``` home.html ``` in your preferred browser and navigate your way through the website's different pages using: ``` shop-all.html ```; ``` aboutUs.html ```; ``` our-brand.html ```; ``` our-craft.html ```; and ``` contact-us.html ```.
+Open ``` index.html ``` in your preferred browser.
 
 ## Authors
 OmolemoBlessingLethuloe
